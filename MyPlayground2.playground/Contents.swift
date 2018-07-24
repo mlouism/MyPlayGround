@@ -41,4 +41,8 @@ for item in tableau {
     print(item.key + " = " + item.value)
 }
 
+var i:Int = 0
 
+for i in 0...10 {
+    print(i)
+}
